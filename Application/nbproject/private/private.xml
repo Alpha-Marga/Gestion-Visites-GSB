@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/medecin.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/js/bootstrap.js</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/connexionUser.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueProfil.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/offrir.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurPrincipal.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueAjoutRapport.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/css/bootstrap.css</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurMesRapports.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueRechercheMedecin.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueConnexion.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/css/style.css</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/css/corps.css</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurAccueil.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/medecinDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueMesRapports.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/deconnexion.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/famille.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/offrirDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/rapport.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/medicamentDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/visiteur.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/accueilVisiteVue.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/miseAjour.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/familleDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/visiteurDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/connexion.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/pied.html.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurProfil.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurRapport.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/medicament.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurRechercheMedecin.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurMedecin.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueRapport.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueMiseAjour.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/entete.html.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/connexionDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/controleur/controleurAjoutRapport.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/modele/rapportDAO.php</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/css/form.css</file>
+            <file>file:/C:/Users/alpha/Desktop/Cours/PROJET/UwAmp/www/Projet_Gestion_Visites/Application/vue/vueMedecin.php</file>
+        </group>
+    </open-files>
+</project-private>
